@@ -1,7 +1,5 @@
 # BDD
 
-# language: PT-BR
-
 # Funcionalidade: Sistema de Locação de Carros
   Como um cliente
   Eu quero alugar um carro
